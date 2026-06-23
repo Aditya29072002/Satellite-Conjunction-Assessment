@@ -1,0 +1,632 @@
+[
+  {
+    "a": "LARETS",
+    "b": "SAUDICOMSAT 3",
+    "dist_sampled": 17.91,
+    "dist_refined": 17.91,
+    "tca_sampled_h": 9.75,
+    "tca_refined_h": 9.75,
+    "pc": 2.8689883495028234e-05,
+    "risk": "YELLOW"
+  },
+  {
+    "a": "O3B PFM",
+    "b": "O3B FM19",
+    "dist_sampled": 2.481,
+    "dist_refined": 2.48,
+    "tca_sampled_h": 16.25,
+    "tca_refined_h": 16.253,
+    "pc": 2.6725162080305526e-05,
+    "risk": "YELLOW"
+  },
+  {
+    "a": "O3B FM4",
+    "b": "O3B FM10",
+    "dist_sampled": 3.605,
+    "dist_refined": 3.604,
+    "tca_sampled_h": 1.75,
+    "tca_refined_h": 1.757,
+    "pc": 1.221248223598573e-05,
+    "risk": "YELLOW"
+  },
+  {
+    "a": "ANIK F3",
+    "b": "ECHOSTAR 15",
+    "dist_sampled": 5.174,
+    "dist_refined": 5.101,
+    "tca_sampled_h": 4.75,
+    "tca_refined_h": 4.756,
+    "pc": 1.025151917722631e-05,
+    "risk": "YELLOW"
+  },
+  {
+    "a": "GEO-KOMPSAT-2A",
+    "b": "GEO-KOMPSAT-2B",
+    "dist_sampled": 11.159,
+    "dist_refined": 11.152,
+    "tca_sampled_h": 1.083,
+    "tca_refined_h": 1.123,
+    "pc": 2.9835958544158077e-06,
+    "risk": "GREEN"
+  },
+  {
+    "a": "COMSATBW-1",
+    "b": "EXPRESS-AT1",
+    "dist_sampled": 13.247,
+    "dist_refined": 13.087,
+    "tca_sampled_h": 16.0,
+    "tca_refined_h": 15.958,
+    "pc": 2.230328787891378e-06,
+    "risk": "GREEN"
+  },
+  {
+    "a": "SES-8",
+    "b": "SES-12",
+    "dist_sampled": 14.04,
+    "dist_refined": 14.04,
+    "tca_sampled_h": 24.0,
+    "tca_refined_h": 24.0,
+    "pc": 1.5619437192931675e-06,
+    "risk": "GREEN"
+  },
+  {
+    "a": "ORBCOMM FM109",
+    "b": "CENTISPACE-1 S1",
+    "dist_sampled": 12.445,
+    "dist_refined": 12.445,
+    "tca_sampled_h": 24.0,
+    "tca_refined_h": 24.0,
+    "pc": 2.927954709161015e-07,
+    "risk": "GREEN"
+  },
+  {
+    "a": "BADR-5",
+    "b": "ARABSAT-5A",
+    "dist_sampled": 17.441,
+    "dist_refined": 17.44,
+    "tca_sampled_h": 0.333,
+    "tca_refined_h": 0.325,
+    "pc": 2.832072283114338e-07,
+    "risk": "GREEN"
+  },
+  {
+    "a": "NANOSAT-1",
+    "b": "UNISAT-6",
+    "dist_sampled": 21.223,
+    "dist_refined": 21.223,
+    "tca_sampled_h": 22.083,
+    "tca_refined_h": 22.083,
+    "pc": 1.8589856881952662e-07,
+    "risk": "GREEN"
+  },
+  {
+    "a": "MMS 2",
+    "b": "MMS 3",
+    "dist_sampled": 22.768,
+    "dist_refined": 22.768,
+    "tca_sampled_h": 24.0,
+    "tca_refined_h": 24.0,
+    "pc": 8.07544461887498e-08,
+    "risk": "GREEN"
+  },
+  {
+    "a": "OPTUS D3",
+    "b": "MEV-1",
+    "dist_sampled": 20.382,
+    "dist_refined": 20.382,
+    "tca_sampled_h": 6.917,
+    "tca_refined_h": 6.924,
+    "pc": 3.400237693831943e-08,
+    "risk": "GREEN"
+  },
+  {
+    "a": "HISPASAT 30W-5",
+    "b": "HISPASAT 30W-6",
+    "dist_sampled": 22.028,
+    "dist_refined": 22.025,
+    "tca_sampled_h": 14.833,
+    "tca_refined_h": 14.864,
+    "pc": 2.295990485292991e-08,
+    "risk": "GREEN"
+  },
+  {
+    "a": "GSAT-18",
+    "b": "GSAT-11",
+    "dist_sampled": 12.041,
+    "dist_refined": 12.03,
+    "tca_sampled_h": 4.0,
+    "tca_refined_h": 3.969,
+    "pc": 1.926970791514966e-08,
+    "risk": "GREEN"
+  },
+  {
+    "a": "STAR ONE C4",
+    "b": "VIASAT-2",
+    "dist_sampled": 23.529,
+    "dist_refined": 23.529,
+    "tca_sampled_h": 19.417,
+    "tca_refined_h": 19.433,
+    "pc": 1.5860367558267132e-08,
+    "risk": "GREEN"
+  },
+  {
+    "a": "GSAT-10",
+    "b": "GSAT-30",
+    "dist_sampled": 18.996,
+    "dist_refined": 18.992,
+    "tca_sampled_h": 3.083,
+    "tca_refined_h": 3.112,
+    "pc": 1.1064263605065191e-08,
+    "risk": "GREEN"
+  },
+  {
+    "a": "MMS 2",
+    "b": "MMS 4",
+    "dist_sampled": 11.283,
+    "dist_refined": 11.283,
+    "tca_sampled_h": 24.0,
+    "tca_refined_h": 24.0,
+    "pc": 5.027387507318269e-09,
+    "risk": "GREEN"
+  },
+  {
+    "a": "THAICOM 6",
+    "b": "THAICOM 8",
+    "dist_sampled": 18.472,
+    "dist_refined": 18.469,
+    "tca_sampled_h": 7.917,
+    "tca_refined_h": 7.899,
+    "pc": 1.965124392119006e-09,
+    "risk": "GREEN"
+  },
+  {
+    "a": "SKYSAT-A",
+    "b": "S-NET C",
+    "dist_sampled": 7.555,
+    "dist_refined": 7.555,
+    "tca_sampled_h": 21.25,
+    "tca_refined_h": 21.25,
+    "pc": 4.916340956699904e-10,
+    "risk": "GREEN"
+  },
+  {
+    "a": "MMS 1",
+    "b": "MMS 3",
+    "dist_sampled": 21.615,
+    "dist_refined": 21.615,
+    "tca_sampled_h": 24.0,
+    "tca_refined_h": 24.0,
+    "pc": 2.0127281354621226e-10,
+    "risk": "GREEN"
+  },
+  {
+    "a": "ARABSAT-5A",
+    "b": "ARABSAT-6A",
+    "dist_sampled": 19.137,
+    "dist_refined": 19.136,
+    "tca_sampled_h": 3.917,
+    "tca_refined_h": 3.889,
+    "pc": 1.6136155422676774e-10,
+    "risk": "GREEN"
+  },
+  {
+    "a": "TELSTAR 14R",
+    "b": "TELSTAR 19V",
+    "dist_sampled": 15.97,
+    "dist_refined": 15.966,
+    "tca_sampled_h": 10.917,
+    "tca_refined_h": 10.877,
+    "pc": 1.4622648101060055e-10,
+    "risk": "GREEN"
+  },
+  {
+    "a": "MMS 3",
+    "b": "MMS 4",
+    "dist_sampled": 18.869,
+    "dist_refined": 18.869,
+    "tca_sampled_h": 2.5,
+    "tca_refined_h": 2.533,
+    "pc": 8.513397228685785e-11,
+    "risk": "GREEN"
+  },
+  {
+    "a": "MMS 1",
+    "b": "MMS 4",
+    "dist_sampled": 14.754,
+    "dist_refined": 14.754,
+    "tca_sampled_h": 20.833,
+    "tca_refined_h": 20.815,
+    "pc": 3.12636471346891e-11,
+    "risk": "GREEN"
+  },
+  {
+    "a": "EUTELSAT 7B",
+    "b": "EUTELSAT 7C",
+    "dist_sampled": 19.156,
+    "dist_refined": 19.149,
+    "tca_sampled_h": 2.667,
+    "tca_refined_h": 2.648,
+    "pc": 1.165826502152861e-11,
+    "risk": "GREEN"
+  },
+  {
+    "a": "ONEWEB-0045",
+    "b": "ONEWEB-0054",
+    "dist_sampled": 10.807,
+    "dist_refined": 10.807,
+    "tca_sampled_h": 19.0,
+    "tca_refined_h": 19.0,
+    "pc": 6.404275386257606e-12,
+    "risk": "GREEN"
+  },
+  {
+    "a": "AMAZONAS 3",
+    "b": "AMAZONAS 5",
+    "dist_sampled": 12.401,
+    "dist_refined": 12.399,
+    "tca_sampled_h": 19.167,
+    "tca_refined_h": 19.141,
+    "pc": 7.390159021473661e-13,
+    "risk": "GREEN"
+  },
+  {
+    "a": "MMS 1",
+    "b": "MMS 2",
+    "dist_sampled": 16.894,
+    "dist_refined": 16.894,
+    "tca_sampled_h": 24.0,
+    "tca_refined_h": 24.0,
+    "pc": 2.009079043570916e-13,
+    "risk": "GREEN"
+  },
+  {
+    "a": "ASTRA 2F",
+    "b": "ASTRA 2G",
+    "dist_sampled": 23.577,
+    "dist_refined": 23.573,
+    "tca_sampled_h": 4.25,
+    "tca_refined_h": 4.277,
+    "pc": 8.533159647868942e-14,
+    "risk": "GREEN"
+  },
+  {
+    "a": "INTELSAT 20 (IS-20)",
+    "b": "INTELSAT 36 (IS-36)",
+    "dist_sampled": 14.064,
+    "dist_refined": 14.064,
+    "tca_sampled_h": 17.167,
+    "tca_refined_h": 17.16,
+    "pc": 4.665353672718681e-14,
+    "risk": "GREEN"
+  },
+  {
+    "a": "GSAT-7",
+    "b": "GSAT-14",
+    "dist_sampled": 16.009,
+    "dist_refined": 16.008,
+    "tca_sampled_h": 3.667,
+    "tca_refined_h": 3.653,
+    "pc": 3.7689040720594773e-14,
+    "risk": "GREEN"
+  },
+  {
+    "a": "EUTELSAT KA-SAT 9A",
+    "b": "EUTELSAT 9B",
+    "dist_sampled": 22.734,
+    "dist_refined": 22.733,
+    "tca_sampled_h": 9.917,
+    "tca_refined_h": 9.927,
+    "pc": 3.5517629655492497e-14,
+    "risk": "GREEN"
+  },
+  {
+    "a": "STARS-AO",
+    "b": "CARTOSAT-3",
+    "dist_sampled": 12.702,
+    "dist_refined": 12.702,
+    "tca_sampled_h": 0.667,
+    "tca_refined_h": 0.667,
+    "pc": 2.220883989341412e-14,
+    "risk": "GREEN"
+  },
+  {
+    "a": "STARS-AO",
+    "b": "HAWK-C",
+    "dist_sampled": 16.883,
+    "dist_refined": 16.883,
+    "tca_sampled_h": 12.583,
+    "tca_refined_h": 12.583,
+    "pc": 8.962550002644224e-15,
+    "risk": "GREEN"
+  },
+  {
+    "a": "QB50P2",
+    "b": "NORSAT 1",
+    "dist_sampled": 14.684,
+    "dist_refined": 14.684,
+    "tca_sampled_h": 13.75,
+    "tca_refined_h": 13.75,
+    "pc": 5.840292011444787e-16,
+    "risk": "GREEN"
+  },
+  {
+    "a": "SIRION PATHFINDER-2",
+    "b": "RANGE-A",
+    "dist_sampled": 21.876,
+    "dist_refined": 21.876,
+    "tca_sampled_h": 3.333,
+    "tca_refined_h": 3.333,
+    "pc": 1.955019222579346e-19,
+    "risk": "GREEN"
+  },
+  {
+    "a": "COSMOS 2390",
+    "b": "GONETS-M 5",
+    "dist_sampled": 6.955,
+    "dist_refined": 6.955,
+    "tca_sampled_h": 4.167,
+    "tca_refined_h": 4.167,
+    "pc": 2.3586018299842452e-20,
+    "risk": "GREEN"
+  },
+  {
+    "a": "ANIK F1R",
+    "b": "ANIK G1",
+    "dist_sampled": 24.977,
+    "dist_refined": 24.977,
+    "tca_sampled_h": 3.5,
+    "tca_refined_h": 3.5,
+    "pc": 9.653897151255973e-21,
+    "risk": "GREEN"
+  },
+  {
+    "a": "UKUBE-1",
+    "b": "STARLINK-1184",
+    "dist_sampled": 18.233,
+    "dist_refined": 18.233,
+    "tca_sampled_h": 20.333,
+    "tca_refined_h": 20.333,
+    "pc": 4.441647608264505e-23,
+    "risk": "GREEN"
+  },
+  {
+    "a": "BSAT-3B",
+    "b": "BSAT-4A",
+    "dist_sampled": 20.671,
+    "dist_refined": 20.67,
+    "tca_sampled_h": 21.25,
+    "tca_refined_h": 21.258,
+    "pc": 2.2592242332694155e-24,
+    "risk": "GREEN"
+  },
+  {
+    "a": "JCSAT-5A",
+    "b": "JCSAT-12 (JCSAT-RA)",
+    "dist_sampled": 23.048,
+    "dist_refined": 23.048,
+    "tca_sampled_h": 12.083,
+    "tca_refined_h": 12.083,
+    "pc": 7.636654085359574e-26,
+    "risk": "GREEN"
+  },
+  {
+    "a": "BADR-5",
+    "b": "ARABSAT-6A",
+    "dist_sampled": 20.818,
+    "dist_refined": 20.818,
+    "tca_sampled_h": 23.333,
+    "tca_refined_h": 23.332,
+    "pc": 2.762915612570912e-26,
+    "risk": "GREEN"
+  },
+  {
+    "a": "CARTOSAT-2C",
+    "b": "GAOFEN-7",
+    "dist_sampled": 11.026,
+    "dist_refined": 11.026,
+    "tca_sampled_h": 1.667,
+    "tca_refined_h": 1.667,
+    "pc": 1.2795563110137165e-26,
+    "risk": "GREEN"
+  },
+  {
+    "a": "HELLAS-SAT 3",
+    "b": "HELLAS-SAT 4 & SGS-1",
+    "dist_sampled": 24.922,
+    "dist_refined": 24.922,
+    "tca_sampled_h": 11.5,
+    "tca_refined_h": 11.5,
+    "pc": 6.585036765376371e-34,
+    "risk": "GREEN"
+  },
+  {
+    "a": "CINEMA",
+    "b": "STARLINK-1020",
+    "dist_sampled": 24.77,
+    "dist_refined": 24.77,
+    "tca_sampled_h": 8.5,
+    "tca_refined_h": 8.5,
+    "pc": 1.035177746276545e-36,
+    "risk": "GREEN"
+  },
+  {
+    "a": "SHIJIAN-6 04B (SJ-6 04B)",
+    "b": "YAOGAN-30 04B",
+    "dist_sampled": 16.164,
+    "dist_refined": 16.164,
+    "tca_sampled_h": 14.917,
+    "tca_refined_h": 14.917,
+    "pc": 1.9736509112032536e-37,
+    "risk": "GREEN"
+  },
+  {
+    "a": "OPS 5712 (P/L 160)",
+    "b": "PRSS-1",
+    "dist_sampled": 20.916,
+    "dist_refined": 20.916,
+    "tca_sampled_h": 5.5,
+    "tca_refined_h": 5.5,
+    "pc": 2.7422214557018623e-44,
+    "risk": "GREEN"
+  },
+  {
+    "a": "CELTEE 1",
+    "b": "CARTOSAT-2D",
+    "dist_sampled": 13.285,
+    "dist_refined": 13.285,
+    "tca_sampled_h": 10.083,
+    "tca_refined_h": 10.083,
+    "pc": 1.1814927104015801e-50,
+    "risk": "GREEN"
+  },
+  {
+    "a": "KANOPUS-V-IK",
+    "b": "NORSAT 2",
+    "dist_sampled": 20.919,
+    "dist_refined": 20.919,
+    "tca_sampled_h": 15.583,
+    "tca_refined_h": 15.583,
+    "pc": 6.702907769892885e-51,
+    "risk": "GREEN"
+  },
+  {
+    "a": "USA 119",
+    "b": "FALCONSAT-6",
+    "dist_sampled": 18.589,
+    "dist_refined": 18.589,
+    "tca_sampled_h": 14.0,
+    "tca_refined_h": 14.0,
+    "pc": 3.269342661342914e-54,
+    "risk": "GREEN"
+  },
+  {
+    "a": "DEIMOS-1",
+    "b": "GAOFEN-12 01",
+    "dist_sampled": 24.569,
+    "dist_refined": 24.569,
+    "tca_sampled_h": 6.0,
+    "tca_refined_h": 6.0,
+    "pc": 4.2644958362613755e-56,
+    "risk": "GREEN"
+  },
+  {
+    "a": "SPOT 6",
+    "b": "TRITON-1",
+    "dist_sampled": 24.352,
+    "dist_refined": 24.352,
+    "tca_sampled_h": 12.667,
+    "tca_refined_h": 12.667,
+    "pc": 6.301400762534278e-76,
+    "risk": "GREEN"
+  },
+  {
+    "a": "YAOGAN-12",
+    "b": "SUOMI-100",
+    "dist_sampled": 24.208,
+    "dist_refined": 24.208,
+    "tca_sampled_h": 12.25,
+    "tca_refined_h": 12.25,
+    "pc": 4.929600554779451e-77,
+    "risk": "GREEN"
+  },
+  {
+    "a": "SINOD-D 1",
+    "b": "JILIN-1 10",
+    "dist_sampled": 20.339,
+    "dist_refined": 20.339,
+    "tca_sampled_h": 22.167,
+    "tca_refined_h": 22.167,
+    "pc": 9.22970777248502e-79,
+    "risk": "GREEN"
+  },
+  {
+    "a": "STARLINK-1272",
+    "b": "STARLINK-1283",
+    "dist_sampled": 21.709,
+    "dist_refined": 21.709,
+    "tca_sampled_h": 15.167,
+    "tca_refined_h": 15.167,
+    "pc": 8.732401213629627e-80,
+    "risk": "GREEN"
+  },
+  {
+    "a": "IRIDIUM 100",
+    "b": "IRIDIUM 169",
+    "dist_sampled": 14.57,
+    "dist_refined": 14.56,
+    "tca_sampled_h": 22.333,
+    "tca_refined_h": 22.34,
+    "pc": 6.138321780506986e-89,
+    "risk": "GREEN"
+  },
+  {
+    "a": "SJ-11-07",
+    "b": "ORBCOMM FM108",
+    "dist_sampled": 24.335,
+    "dist_refined": 24.335,
+    "tca_sampled_h": 19.333,
+    "tca_refined_h": 19.333,
+    "pc": 5.148030378228896e-99,
+    "risk": "GREEN"
+  },
+  {
+    "a": "YAOGAN-2",
+    "b": "CANX-5",
+    "dist_sampled": 21.3,
+    "dist_refined": 21.3,
+    "tca_sampled_h": 16.667,
+    "tca_refined_h": 16.667,
+    "pc": 1.4480977794450282e-102,
+    "risk": "GREEN"
+  },
+  {
+    "a": "LEMUR-2-ANDIS",
+    "b": "LEMUR-2-DEMBITZ",
+    "dist_sampled": 17.68,
+    "dist_refined": 17.68,
+    "tca_sampled_h": 8.0,
+    "tca_refined_h": 8.0,
+    "pc": 1.876225776239384e-104,
+    "risk": "GREEN"
+  },
+  {
+    "a": "GCOM-C (SHIKISAI)",
+    "b": "HAIYANG-1C",
+    "dist_sampled": 18.1,
+    "dist_refined": 18.1,
+    "tca_sampled_h": 16.667,
+    "tca_refined_h": 16.667,
+    "pc": 2.1801137155490606e-105,
+    "risk": "GREEN"
+  },
+  {
+    "a": "LATINSAT A",
+    "b": "DEIMOS-1",
+    "dist_sampled": 21.044,
+    "dist_refined": 21.044,
+    "tca_sampled_h": 4.0,
+    "tca_refined_h": 4.0,
+    "pc": 5.109143585271677e-108,
+    "risk": "GREEN"
+  },
+  {
+    "a": "COSMOS 2504",
+    "b": "SSTL S1-4",
+    "dist_sampled": 20.605,
+    "dist_refined": 20.605,
+    "tca_sampled_h": 15.417,
+    "tca_refined_h": 15.417,
+    "pc": 2.5543475582327398e-117,
+    "risk": "GREEN"
+  },
+  {
+    "a": "NANOSATC-BR1",
+    "b": "ICEYE-X4",
+    "dist_sampled": 18.419,
+    "dist_refined": 18.419,
+    "tca_sampled_h": 8.167,
+    "tca_refined_h": 8.167,
+    "pc": 2.7062530104631026e-125,
+    "risk": "GREEN"
+  }
+]

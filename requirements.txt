@@ -1,0 +1,10 @@
+sgp4
+numpy
+scipy
+matplotlib
+requests
+tqdm
+joblib
+pandas
+streamlit
+plotly

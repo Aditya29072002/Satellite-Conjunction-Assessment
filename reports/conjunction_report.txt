@@ -1,0 +1,40 @@
+============================================================
+  CONJUNCTION ASSESSMENT REPORT
+  Generated: 2026-06-22 02:43 UTC
+  Window: 24h | Objects screened: 1500
+============================================================
+
+SUMMARY:  RED=0  YELLOW=4  GREEN=59
+
+TOP EVENTS BY COLLISION PROBABILITY:
+------------------------------------------------------------
+[YELLOW]               LARETS <-> SAUDICOMSAT 3       
+         miss=17.91 km  TCA=9.8h  Pc=2.87e-05
+[YELLOW]              O3B PFM <-> O3B FM19            
+         miss=2.48 km  TCA=16.3h  Pc=2.67e-05
+[YELLOW]              O3B FM4 <-> O3B FM10            
+         miss=3.60 km  TCA=1.8h  Pc=1.22e-05
+[YELLOW]              ANIK F3 <-> ECHOSTAR 15         
+         miss=5.10 km  TCA=4.8h  Pc=1.03e-05
+[GREEN ]       GEO-KOMPSAT-2A <-> GEO-KOMPSAT-2B      
+         miss=11.15 km  TCA=1.1h  Pc=2.98e-06
+[GREEN ]           COMSATBW-1 <-> EXPRESS-AT1         
+         miss=13.09 km  TCA=16.0h  Pc=2.23e-06
+[GREEN ]                SES-8 <-> SES-12              
+         miss=14.04 km  TCA=24.0h  Pc=1.56e-06
+[GREEN ]        ORBCOMM FM109 <-> CENTISPACE-1 S1     
+         miss=12.45 km  TCA=24.0h  Pc=2.93e-07
+[GREEN ]               BADR-5 <-> ARABSAT-5A          
+         miss=17.44 km  TCA=0.3h  Pc=2.83e-07
+[GREEN ]            NANOSAT-1 <-> UNISAT-6            
+         miss=21.22 km  TCA=22.1h  Pc=1.86e-07
+[GREEN ]                MMS 2 <-> MMS 3               
+         miss=22.77 km  TCA=24.0h  Pc=8.08e-08
+[GREEN ]             OPTUS D3 <-> MEV-1               
+         miss=20.38 km  TCA=6.9h  Pc=3.40e-08
+[GREEN ]       HISPASAT 30W-5 <-> HISPASAT 30W-6      
+         miss=22.02 km  TCA=14.9h  Pc=2.30e-08
+[GREEN ]              GSAT-18 <-> GSAT-11             
+         miss=12.03 km  TCA=4.0h  Pc=1.93e-08
+[GREEN ]          STAR ONE C4 <-> VIASAT-2            
+         miss=23.53 km  TCA=19.4h  Pc=1.59e-08
