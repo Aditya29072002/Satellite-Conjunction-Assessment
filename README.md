@@ -4,7 +4,7 @@ Accelerating all-pairs satellite collision screening with spatial partitioning,
 parallel computing, and probabilistic risk assessment — using real CelesTrak
 TLE data and the SGP4 propagation model.
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](asset/dashboard.png)
 
 ## What it does
 A naive O(N²) screening of the ~15,830-object active catalog needs over 125
